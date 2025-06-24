@@ -1,4 +1,15 @@
  🚗 Car Racing Game (Python + Tkinter)
+# GAME LOGIC:
+-In this game blue is user car and red colors are others.
+-If user car pass through safely others cars then score will increase.
+-Score display on top.
+-User can control the speed of car.
+-Car can move any side with buttons.
+-If user car collides or touches then game will over and then should restart game.
+
+# GAME IDEA:
+This idea came from surroundings nowadays cars usaging is increasing this is not a race game but this is basic game which can plays safely car then have high score without colliding other cars.
+
 
 A fast-paced car racing game built using Python's Tkinter GUI library. Avoid red obstacles, survive as long as possible, and increase your score. Includes restart functionality and keyboard controls for smooth gameplay.
 
